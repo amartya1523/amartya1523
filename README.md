@@ -38,19 +38,20 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,c,figma,git,github" alt="tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongodb,firebase,python,c,cpp&theme=dark" alt="tech stack icons row 1"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,git,github,figma,illustrator,docker,aws,vscode,postman,npm,linux&theme=dark" alt="tech stack icons row 2"/>
 </p>
 
 <br>
 
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartya1523&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <div align="center">
-  <sub>🌐 <a href="https://www.amartyasingh.space/">amartyasingh.space</a> 
+  <sub>🌐 <a href="https://www.amartyasingh.space/">amartyasingh.space</a></sub>
 </div>
