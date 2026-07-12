@@ -29,7 +29,6 @@
 
 - 🎓 Final-year student at **LNMIIT Jaipur**
 - 💻 Building full-stack, blockchain & AI-powered projects
-- 🌱 Currently exploring **Web3 / RWA tokenization** and **modern JS frameworks**
 - 📍 Based in Jaipur, Rajasthan, India
 - 🌐 Portfolio: [amartyasingh.space](https://www.amartyasingh.space/)
 - ⚡ Fun fact: I like turning weekend ideas into shipped repos
@@ -46,15 +45,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amartya1523&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1523&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartya1523&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <div align="center">
-  <sub>🌐 <a href="https://www.amartyasingh.space/">amartyasingh.space</a> &nbsp;·&nbsp; Built with ❤️ — pure SVG hero banner, no JS required.</sub>
+  <sub>🌐 <a href="https://www.amartyasingh.space/">amartyasingh.space</a> 
 </div>
