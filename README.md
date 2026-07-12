@@ -26,7 +26,6 @@
 
 - 🎓 Final-year student at **LNMIIT Jaipur**
 - 💻 Building full-stack, blockchain & AI-powered projects
-- 🌱 Currently exploring **Web3 / RWA tokenization** and **modern JS frameworks**
 - 📍 Based in Jaipur, Rajasthan, India
 - ⚡ Fun fact: I like turning weekend ideas into shipped repos
 
