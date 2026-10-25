@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartya1523&background=0B0420&border=FF2BD6&ring=FF2BD6&fire=FFE600&stroke=3B2B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=C4B5FD&dates=8B7FB8&border_radius=18" height="170" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1523&layout=compact&langs_count=8&bg_color=0B0420&title_color=00F0FF&text_color=C4B5FD&border_color=FF2BD6&border_radius=18&hide=html,css,jupyter%20notebook&custom_title=Most%20Used%20Weapons" height="170" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1523&layout=compact&langs_count=8&bg_color=0B0420&title_color=00F0FF&text_color=C4B5FD&border_color=FF2BD6&border_radius=18&hide=html,css,jupyter%20notebook,cython,xslt,scss&custom_title=Most%20Used%20Weapons" height="170" alt="Top languages"/>
 </p>
 
 <br/>
@@ -79,8 +79,9 @@
 <div align="center">
 
 ```text
-> GAME OVER? NAH. RESPAWNING WITH ANOTHER SIDE PROJECT...
-> INSERT COIN: SAY HI ON LINKEDIN OR X_
+> GAME OVER? NAH.
+> RESPAWNING WITH A NEW PROJECT...
+> INSERT COIN: SAY HI_
 ```
 
 <sub>Pac-Man &amp; Snake refresh every 12 hours from my real contributions via GitHub Actions.</sub>
