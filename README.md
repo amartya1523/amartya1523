@@ -1,47 +1,154 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Amartya+Vikram+Singh;Full-Stack+Developer;I+build+things+from+scratch" alt="Typing intro"/>
-
-<p>
-  <a href="https://www.amartyasingh.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/amartya-vikram-singh-4a6485253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Amartya1523"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
-  <img src="https://komarev.com/ghpvc/?username=amartya1523&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00d4ff&height=210&section=header&text=Amartya%20Vikram%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Distributed%20Systems&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="header"/>
 </p>
-
-</div>
-
-### 🙋‍♂️ About Me
-
-- 🎓 Final-year student at **LNMIIT Jaipur**
-- 💻 Full-stack developer working with React, Node.js, TypeScript, Python and Rust
-- 🔭 Currently building systems from scratch: CRDTs, network simulators, AI agents
-- 🌱 Learning distributed systems and AI infrastructure
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amartya-vikram-singh-4a6485253/) or at [amartyasingh.space](https://www.amartyasingh.space/)
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,express,tailwind,postgres,mongodb,redis,docker,aws,git&theme=dark" alt="Tech stack"/>
-</p>
-
-### 🚀 Featured Projects
-
-- **[ShadowNet](https://github.com/amartya1523/ShadowNet)**: internet simulator with 100,000 nodes and routing protocols written from scratch (Rust)
-- **[SyncForge](https://github.com/amartya1523/SyncForge)**: real-time collaboration engine on a hand-written CRDT (TypeScript)
-- **[CodePulse](https://github.com/amartya1523/CodePulse)**: AI-powered incident detection and root-cause analysis (TypeScript)
-- **[GhostOS](https://github.com/amartya1523/GhostOS)**: an AI agent that can operate a computer (Python)
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartya1523&theme=github-dark-blue&hide_border=true" height="165" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1523&layout=compact&langs_count=6&theme=github_dark&hide_border=true&hide=html,css,jupyter%20notebook,cython,xslt,scss" height="165" alt="Top languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Software+Engineer;Full-Stack+Developer+(MERN+%2B+Next.js);Backend+%26+Distributed+Systems+Engineer;AI+Agents+%26+LLM+Applications;Building+engines+from+scratch" alt="typing"/>
 </p>
 
-### 🕹️ Contribution Graph
+<p align="center">
+  <a href="https://www.amartyasingh.space/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/amartya-vikram-singh-4a6485253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/Amartya1523"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <img src="https://komarev.com/ghpvc/?username=amartya1523&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="views"/>
+</p>
+
+## 〔 whoami 〕
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+```ts
+const amartya = {
+  role:       ["Software Engineer", "Full-Stack Developer",
+               "Backend Engineer", "AI Engineer"],
+  location:   "Jaipur, India",
+  education:  "B.Tech @ LNMIIT Jaipur (Final Year)",
+  buildsWith: ["TypeScript", "Python", "Rust", "C++"],
+  interests:  ["distributed systems", "AI agents",
+               "real-time apps", "web3"],
+  motto:      "make it work -> make it right -> ship it",
+};
+```
+
+</td>
+<td width="44%" valign="top">
+
+**Quick facts**
+
+- Build **end-to-end products**: UI, APIs, databases, deployment
+- Write core systems **from scratch**: CRDTs, routing protocols, schedulers
+- Ship **AI features** that work in production, not just demos
+- Freelance on **Upwork**, comfortable with real clients and deadlines
+- Open to **SDE / full-stack roles and internships**
+
+</td>
+</tr>
+</table>
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+
+## 〔 featured builds 〕
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [ShadowNet](https://github.com/amartya1523/ShadowNet)
+Internet simulator with **100,000 nodes**. OSPF, RIP and BGP written from scratch, plus a reinforcement-learning router. Cut cables, crash routers and watch the network heal.
+
+`Rust` `TimescaleDB` `Redis` `Next.js`
+
+</td>
+<td width="50%" valign="top">
+
+### [SyncForge](https://github.com/amartya1523/SyncForge)
+Real-time collaboration engine on a **hand-written CRDT** (no Yjs or Automerge). Shared editor, version time-travel and a multiplayer whiteboard, offline-first.
+
+`TypeScript` `CRDT` `Postgres` `Redis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CodePulse](https://github.com/amartya1523/CodePulse)
+AI incident platform: OpenTelemetry pipeline, anomaly detection, **trace-based root-cause analysis** and auto-remediation with rollback.
+
+`TypeScript` `OpenTelemetry` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### [GhostOS](https://github.com/amartya1523/GhostOS)
+An **AI agent that operates a computer**: it sees the screen, plans, clicks and types to finish tasks.
+
+`Python` `AI Agents` `Computer Vision`
+
+</td>
+</tr>
+</table>
+
+## 〔 tech stack 〕
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,cpp,c,solidity&theme=dark" alt="languages"/>
+</p>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,vite,html,css&theme=dark" alt="frontend"/>
+</p>
+
+<p align="center"><b>Backend & APIs</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,graphql&theme=dark" alt="backend"/>
+</p>
+
+<p align="center"><b>Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma,firebase&theme=dark" alt="databases"/>
+</p>
+
+<p align="center"><b>AI / ML</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LLM_Agents-1f6feb?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+<p align="center"><b>Cloud & DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,nginx,linux&theme=dark" alt="devops"/>
+  <br/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRDTs-1f6feb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Distributed_Systems-00a3cc?style=flat-square"/>
+</p>
+
+<p align="center"><b>Tools</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" alt="tools"/>
+</p>
+
+## 〔 stats 〕
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amartya1523&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1523&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=html,css,jupyter%20notebook,cython,xslt,scss" alt="langs"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amartya1523&hide_border=true&background=0d1117&ring=1f6feb&fire=00d4ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/>
+</p>
+
+## 〔 contribution graph 〕
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amartya1523/amartya1523/output/pacman-contribution-graph-dark.svg"/>
@@ -49,8 +156,10 @@
   <img src="https://raw.githubusercontent.com/amartya1523/amartya1523/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contribution graph" width="100%"/>
 </picture>
 
-### 💬 Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+</p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="footer"/>
 </p>
