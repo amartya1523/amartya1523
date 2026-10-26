@@ -1,4 +1,4 @@
-name: Arcade (Pac-Man + Snake)
+name: Pac-Man contribution graph
 
 on:
   schedule:
@@ -19,14 +19,6 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
-      - name: Snake eats the contribution graph
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff2bd6&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

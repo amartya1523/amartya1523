@@ -1,89 +1,56 @@
 <div align="center">
 
-<a href="https://www.amartyasingh.space/">
-  <img src="assets/arcade-hero.svg" alt="Amartya Vikram Singh: retro arcade header with animated space invaders" width="100%"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Amartya+Vikram+Singh;Full-Stack+Developer;I+build+things+from+scratch" alt="Typing intro"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=820&height=46&lines=%3E+LOADING+PLAYER+1...;%3E+CLASS%3A+FULL-STACK+ENGINEER;%3E+BUILDS+ENGINES+FROM+SCRATCH;%3E+RUST+%E2%80%A2+TYPESCRIPT+%E2%80%A2+PYTHON+%E2%80%A2+AI;%3E+PRESS+START+TO+COLLABORATE" alt="Typing intro"/>
-
-<a href="https://www.amartyasingh.space/"><img src="https://img.shields.io/badge/▶_PORTFOLIO-amartyasingh.space-FF2BD6?style=for-the-badge&labelColor=0B0420" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/amartya-vikram-singh-4a6485253/"><img src="https://img.shields.io/badge/▶_LINKEDIN-connect-00F0FF?style=for-the-badge&labelColor=0B0420" alt="LinkedIn"/></a>
-<a href="https://twitter.com/Amartya1523"><img src="https://img.shields.io/badge/▶_X-@Amartya1523-FFE600?style=for-the-badge&labelColor=0B0420" alt="X / Twitter"/></a>
-<a href="https://github.com/amartya1523"><img src="https://komarev.com/ghpvc/?username=amartya1523&label=VISITORS&color=39FF14&style=for-the-badge&labelColor=0B0420" alt="Visitors"/></a>
+<p>
+  <a href="https://www.amartyasingh.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/amartya-vikram-singh-4a6485253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/Amartya1523"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+  <img src="https://komarev.com/ghpvc/?username=amartya1523&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views"/>
+</p>
 
 </div>
 
-<br/>
+### 🙋‍♂️ About Me
 
-<img src="assets/player-card.svg" alt="Character sheet: class, guild, base, main quest and skill stats" width="100%"/>
+- 🎓 Final-year student at **LNMIIT Jaipur**
+- 💻 Full-stack developer working with React, Node.js, TypeScript, Python and Rust
+- 🔭 Currently building systems from scratch: CRDTs, network simulators, AI agents
+- 🌱 Learning distributed systems and AI infrastructure
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amartya-vikram-singh-4a6485253/) or at [amartyasingh.space](https://www.amartyasingh.space/)
 
-<br/>
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-## 👾 Boss Levels: things I built from scratch
+### 🛠️ Tech Stack
 
-| | Level | What it is | Loot |
-|:-:|---|---|---|
-| 🛰️ | **[ShadowNet](https://github.com/amartya1523/ShadowNet)** | An internet simulator with 100,000 nodes. OSPF, RIP and BGP written from scratch, plus a reinforcement-learning router. Cut cables, crash routers, launch a botnet and watch the network heal. | `Rust` `TimescaleDB` `Redis` `Next.js` |
-| 🧬 | **[SyncForge](https://github.com/amartya1523/SyncForge)** | A real-time collaboration engine built on a hand-written sequence CRDT (no Yjs, no Automerge). Shared editor, version time-travel and a multiplayer whiteboard, fuzz-tested for convergence. | `TypeScript` `CRDT` `Postgres` `Redis` |
-| 🚨 | **[CodePulse](https://github.com/amartya1523/CodePulse)** | An AI incident platform. OpenTelemetry pipeline, anomaly detection, trace-based root-cause analysis, an AI investigator that cites its evidence, and auto-remediation with rollback. | `TypeScript` `OpenTelemetry` `LLMs` |
-| 👻 | **[GhostOS](https://github.com/amartya1523/GhostOS)** | An AI agent that operates a computer the way a person does. | `Python` `Agents` `Vision` |
-| 📚 | **[DocsHealer](https://github.com/amartya1523/DocsHealer)** | Keeps technical documentation in sync with the codebase automatically. | `TypeScript` `AI` |
-| 🏢 | **[AssetFlow](https://github.com/amartya1523/AssetFlow_HAAS)** | Enterprise asset management with conflict-free booking and audit workflows. [▶ Play live](https://asset-flow-haas.vercel.app) | `JavaScript` `Node` |
-
-<br/>
-
-## 🎮 Inventory
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,c,cpp,solidity&theme=dark&perline=7" alt="Languages"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,redux,threejs&theme=dark&perline=7" alt="Frameworks"/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,docker,aws,linux&theme=dark&perline=7" alt="Infrastructure"/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,postman,figma,vscode&theme=dark&perline=7" alt="Tools"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,express,tailwind,postgres,mongodb,redis,docker,aws,git&theme=dark" alt="Tech stack"/>
 </p>
 
-<br/>
+### 🚀 Featured Projects
 
-## 🕹️ Now Playing: Pac-Man vs. my contribution graph
+- **[ShadowNet](https://github.com/amartya1523/ShadowNet)**: internet simulator with 100,000 nodes and routing protocols written from scratch (Rust)
+- **[SyncForge](https://github.com/amartya1523/SyncForge)**: real-time collaboration engine on a hand-written CRDT (TypeScript)
+- **[CodePulse](https://github.com/amartya1523/CodePulse)**: AI-powered incident detection and root-cause analysis (TypeScript)
+- **[GhostOS](https://github.com/amartya1523/GhostOS)**: an AI agent that can operate a computer (Python)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amartya1523/amartya1523/output/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amartya1523/amartya1523/output/pacman-contribution-graph.svg"/>
-    <img src="https://raw.githubusercontent.com/amartya1523/amartya1523/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contribution graph" width="100%"/>
-  </picture>
-</p>
-
-<details>
-<summary><b>🐍 Insert another coin: Snake mode</b></summary>
-<br/>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amartya1523/amartya1523/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amartya1523/amartya1523/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/amartya1523/amartya1523/output/github-snake-dark.svg" alt="Snake eating my contribution graph" width="100%"/>
-  </picture>
-</p>
-</details>
-
-<br/>
-
-## 🏆 High Scores
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartya1523&background=0B0420&border=FF2BD6&ring=FF2BD6&fire=FFE600&stroke=3B2B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=C4B5FD&dates=8B7FB8&border_radius=18" height="170" alt="Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1523&layout=compact&langs_count=8&bg_color=0B0420&title_color=00F0FF&text_color=C4B5FD&border_color=FF2BD6&border_radius=18&hide=html,css,jupyter%20notebook,cython,xslt,scss&custom_title=Most%20Used%20Weapons" height="170" alt="Top languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amartya1523&theme=github-dark-blue&hide_border=true" height="165" alt="Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1523&layout=compact&langs_count=6&theme=github_dark&hide_border=true&hide=html,css,jupyter%20notebook,cython,xslt,scss" height="165" alt="Top languages"/>
 </p>
 
-<br/>
+### 🕹️ Contribution Graph
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amartya1523/amartya1523/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amartya1523/amartya1523/output/pacman-contribution-graph.svg"/>
+  <img src="https://raw.githubusercontent.com/amartya1523/amartya1523/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating my contribution graph" width="100%"/>
+</picture>
 
-```text
-> GAME OVER? NAH.
-> RESPAWNING WITH A NEW PROJECT...
-> INSERT COIN: SAY HI_
-```
+### 💬 Quote of the Day
 
-<sub>Pac-Man &amp; Snake refresh every 12 hours from my real contributions via GitHub Actions.</sub>
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
+</p>
