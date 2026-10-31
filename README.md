@@ -92,60 +92,26 @@ An **AI agent that operates a computer**: it sees the screen, plans, clicks and 
 
 ## 〔 tech stack 〕
 
-<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,cpp,c,solidity&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,cpp,c,solidity,react,nextjs,redux,tailwind,threejs,vite,html,css,nodejs,express,nestjs,fastapi,flask,graphql,postgres,mongodb,redis,mysql,prisma,firebase,pytorch,tensorflow,sklearn,opencv,docker,kubernetes,aws,vercel,githubactions,nginx,linux,git,github,vscode,postman,figma,npm&perline=11&theme=dark" alt="tech stack"/>
 </p>
 
-<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,vite,html,css&theme=dark" alt="frontend"/>
+  <img src="https://img.shields.io/badge/LLM_Agents-161b22?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-161b22?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+  <img src="https://img.shields.io/badge/Pandas-161b22?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-161b22?style=for-the-badge&logo=opentelemetry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-161b22?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CRDTs-161b22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Distributed_Systems-161b22?style=for-the-badge"/>
 </p>
 
-<p align="center"><b>Backend & APIs</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,graphql&theme=dark" alt="backend"/>
-</p>
-
-<p align="center"><b>Databases</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma,firebase&theme=dark" alt="databases"/>
-</p>
-
-<p align="center"><b>AI / ML</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ai"/>
-  <br/>
-  <img src="https://img.shields.io/badge/LLM_Agents-1f6feb?style=flat-square&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-
-<p align="center"><b>Cloud & DevOps</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,githubactions,nginx,linux&theme=dark" alt="devops"/>
-  <br/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRDTs-1f6feb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Distributed_Systems-00a3cc?style=flat-square"/>
-</p>
-
-<p align="center"><b>Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm&theme=dark" alt="tools"/>
-</p>
-
-## 〔 stats 〕
+## 〔 contributions 〕
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amartya1523&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amartya1523&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&hide=html,css,jupyter%20notebook,cython,xslt,scss" alt="langs"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amartya1523&hide_border=true&background=0d1117&ring=1f6feb&fire=00d4ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/>
+  <img src="https://streak-stats.demolab.com?user=amartya1523&hide_border=true&background=0d1117&ring=1f6feb&fire=00d4ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="contributions"/>
 </p>
 
 ## 〔 contribution graph 〕
