@@ -21,7 +21,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
       - name: Generate streak stats
-        run: python3 .github/scripts/streak.py ${{ github.repository_owner }} dist/streak-stats.svg
+        run: |
+          mkdir -p dist
+          sudo chown -R "$(id -u):$(id -g)" dist
+          python3 .github/scripts/streak.py ${{ github.repository_owner }} dist/streak-stats.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
