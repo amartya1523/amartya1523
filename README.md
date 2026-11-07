@@ -111,7 +111,7 @@ An **AI agent that operates a computer**: it sees the screen, plans, clicks and 
 ## 〔 contributions 〕
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amartya1523&hide_border=true&background=0d1117&ring=1f6feb&fire=00d4ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="contributions"/>
+  <img src="https://raw.githubusercontent.com/amartya1523/amartya1523/output/streak-stats.svg" alt="contributions" width="600"/>
 </p>
 
 ## 〔 contribution graph 〕
